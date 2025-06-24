@@ -87,14 +87,14 @@ just remember that you can't purchase success!
 # Curriculum
 
 - [Prerequisites](#prerequisites)
-- [Intro CS](#intro-cs)
+- [🟡Intro CS](#intro-cs)
 - [Core CS](#core-cs)
   - [Core programming](#core-programming)
   - [Core math](#core-math)
-  - [CS Tools](#cs-tools)
+  - [🟡CS Tools](#cs-tools)
   - [Core systems](#core-systems)
   - [Core theory](#core-theory)
-  - [Core security](#core-security)
+  - [🟡Core security](#core-security)
   - [Core applications](#core-applications)
   - [Core ethics](#core-ethics)
 - [Advanced CS](#advanced-cs)
